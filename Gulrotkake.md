@@ -1,6 +1,6 @@
 # Gulrotkake
 
-!(Gulrotkake med ostkrem)[./img/Gulrotkake-med-ostekrem.jpg]
+![Gulrotkake med ostekrem](./img/Gulrotkake-med-ostekrem.jpg)
 
 Gulrotkake med ostekrem er både saftig og godt, og ostekremen på toppen er uimotståelig! Gulrotkake i langpanne er ypperlig å ta med til skoleavslutninger, dugnader og festlige lag.
 
@@ -8,23 +8,23 @@ Gulrotkake med ostekrem er både saftig og godt, og ostekremen på toppen er uim
 
 Til 20 porsjoner
 
-> 6 stk. egg
-> 4 dl sukker
-> 3,5 dl soyaolje , eller annen smaksnøytral olje
-> 500 g gulrot
-> 6 dl hvetemel
-> 1 ss bakepulver
-> 1 ts malt kanel
+- 6 stk. egg
+- 4 dl sukker
+- 3,5 dl soyaolje , eller annen smaksnøytral olje
+- 500 g gulrot
+- 6 dl hvetemel
+- 1 ss bakepulver
+- 1 ts malt kanel
 
 Ostekrem:
 
-> 200 g kremost naturell
-> 200 g mykt smør
-> 200 g melis
+- 200 g kremost naturell
+- 200 g mykt smør
+- 200 g melis
 
 Til pynt:
 
-> 1 stk. gulrot
+- 1 stk. gulrot
 
 ## Framgangsmåte
 
