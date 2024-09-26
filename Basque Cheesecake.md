@@ -3,7 +3,7 @@
 ![Basque Cheesecake](https://i.ytimg.com/vi/IW-jAVxELDQ/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBm7vBykRjCQ_JUzKNteljCn0isFQ)
 
 #### Biografi
-Jeg vil gjerne takke ostekaken, og dens mange varianter, som har utgjort en stor del av livet mitt og påvirket meg i positiv retning. Uten ostekaken hadde jeg ikke vært der jeg er i dag, og ord kan ikke uttrykke min takknemlighet.
+Jeg vil gjerne takke ostekaken, og dens mange varianter, som har utgjort en stor del av livet mitt og påvirket meg i positiv retning! Uten ostekaken hadde jeg ikke vært der jeg er i dag, og ord kan ikke uttrykke min takknemlighet.
 
 ### Porsjon
 14 cm x 8 cm x 8 cm brødform
