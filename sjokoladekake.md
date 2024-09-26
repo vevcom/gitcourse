@@ -13,3 +13,8 @@
 - Melk
 - Smør
 - Enda mer sjokolade
+
+
+
+## Jeg liker katter
+Har du hørt om det fantastiske dyret som heter katt? Jeg elsker katt. Faktisk så har jeg hatt katt hele livet. 
