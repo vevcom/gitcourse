@@ -8,7 +8,7 @@ Gulrotkake med ostekrem er både saftig og godt, og ostekremen på toppen er uim
 
 Til 20 porsjoner
 
-- 6 stk. egg
+- 4 stk. egg
 - 4 dl sukker
 - 3,5 dl soyaolje , eller annen smaksnøytral olje
 - 500 g gulrot
